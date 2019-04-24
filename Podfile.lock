@@ -1,0 +1,28 @@
+PODS:
+  - Kanna (5.0.0)
+  - Kingfisher (5.3.1)
+  - SKPhotoBrowser (6.1.0)
+  - SpringIndicator (5.0.0)
+
+DEPENDENCIES:
+  - Kanna
+  - Kingfisher
+  - SKPhotoBrowser
+  - SpringIndicator
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Kanna
+    - Kingfisher
+    - SKPhotoBrowser
+    - SpringIndicator
+
+SPEC CHECKSUMS:
+  Kanna: a32875df62975f8f4b871e933b4ea1a5c3b8be0f
+  Kingfisher: d9e7e0b209b59b8f9873aa2f37654e81a7beea51
+  SKPhotoBrowser: 343de95d89dc7913763c5dda243cc6e606e4a168
+  SpringIndicator: 111bf862e1415e5ac7b3a43c0cd09633d5715fd6
+
+PODFILE CHECKSUM: a13ad315668f5dbe1a7ba76eb593fc047fe2d1a2
+
+COCOAPODS: 1.6.0
